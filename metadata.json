@@ -1,0 +1,8 @@
+{
+  "name": "bryannuevoaño2026.com - Official Countdown",
+  "description": "The personal 2026 countdown site for Bryan, featuring real-time global tracking, resolution management, and Gemini AI powered celebratory tools.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
